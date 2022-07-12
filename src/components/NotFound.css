@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&display=swap');
+
+.container {
+    display: flex;
+    width: 100%;
+}
+
+.main {
+    width: 80%;
+}
+
+.polaroid {
+  width: 30em;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+
+  p {
+    text-align: center;
+      font-size: 2em;
+      font-family: 'Roboto Slab', serif;
+      padding: 1em;
+  }
+

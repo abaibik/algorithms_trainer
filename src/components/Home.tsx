@@ -14,7 +14,7 @@ export const Home = () => {
         <p>
           Hier you can train your algorithms skills.
           <br />
-          Why do you need this?
+          Why do you actually need this?
           <br />
           Oh, there are 3 cases for that:
         </p>
@@ -32,6 +32,9 @@ export const Home = () => {
             task is simple
           </li>
         </ul>
+        <p>
+          Sounds familiar? <br></br>So let's train!
+        </p>
       </main>
       <div className="container-banner">
         <AnimationBanner />

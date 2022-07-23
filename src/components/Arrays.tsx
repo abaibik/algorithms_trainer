@@ -1,5 +1,6 @@
+import { tasks } from "../tasks";
 import { Simulator } from "./Simulator";
 
 export const Arrays = () => {
-  return <Simulator />;
+  return <Simulator taskList={tasks.arrays} />;
 };
